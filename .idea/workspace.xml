@@ -1,11 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8ae0f0-19fb-43ee-adce-95987ae0ed5c" name="Changes" comment="" />
+    <list default="true" id="8e8ae0f0-19fb-43ee-adce-95987ae0ed5c" name="Changes" comment="API StellarBurgers Test">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChangeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CreateOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChangeUserDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateUserParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/05b086f3-5071-43f8-95b3-91472d6b2524-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/17cb1ff9-e421-4445-8e75-950909005293-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/183c5877-bbde-4b4f-957c-de26bc47ca74-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/1ffa77cd-8bb7-4fb4-99c2-4c7e6c08af8b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/2911545e-fe12-43ad-b3e7-6fd24de17f58-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/3ebe794a-5274-4fce-89ec-11aae00fc946-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/4ebc7a4e-a298-4381-b071-3801728e1671-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/51a8c715-402b-4725-9de3-90fc7033ab02-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/579ad4ef-bcd0-492d-a0b1-19a47418dab2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/64a1fc96-fae3-49c9-ab38-1081047c32d9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/6f582afe-69df-44cd-ab28-f9a009c51072-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/83829018-e4c3-490e-a4c0-f0d95ae7d697-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/8b983923-adad-4c47-9b83-a1c7398bbc17-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/9ecf1fbd-3613-499c-aa0a-3b323539bcee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/adfe2970-9b7f-4991-a929-6723beae3eda-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/b4b8ca05-b631-4802-9fdf-70143a40f193-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/cdd6d0f8-2311-40da-b5e3-39b39a89918a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e37c004d-ed85-4562-821e-f099e4b1bb52-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/ff631aab-827a-4ecf-9aec-15dd3372f62d-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -20,12 +74,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="dio_brando134@yandex.ru" />
+      <command value="kira_yoshikage777@yandex.ru" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +97,9 @@
       <updated>1717421640564</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API StellarBurgers Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="API StellarBurgers Test" />
   </component>
 </project>
